@@ -22,7 +22,7 @@
 
 ## 👋 I'm Sanjay Kumaran D!
 
-**🎓 Student | Aspiring Java Full Stack Developer | Data Science & AI/ML Enthusiast**
+**🎓 Student | Aspiring Java Developer | Data Science & AI/ML Enthusiast**
 
 - ✨ Currently learning and building projects in **Java Full Stack Development**
 - 🧠 I love working with **data, intelligent systems, and clean UI apps**
