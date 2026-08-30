@@ -1,5 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumaran D</h1>
-<h3 align="center">🎓 Student | Aspire to become a Java Full Stack Developer | Data Science | ML & AI Enthusiast</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SANJAY%20KUMARAN%20D&fontSize=60&fontColor=ffffff&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="120" align="center">
+<img src="https://avatars.githubusercontent.com/u/0?v=4" width="90" style="border-radius:50%;" />
+</td>
+<td>
+
+**🔗 Portfolio:** [sanjaykumarand.github.io](https://sanjaykumarand.github.io)
+**📧 Email:** [sanjaykumaran6907@gmail.com](mailto:sanjaykumaran6907@gmail.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 👋 I'm Sanjay Kumaran D!
+
+**🎓 Student | Aspiring Java Full Stack Developer | Data Science & AI/ML Enthusiast**
+
+- ✨ Currently learning and building projects in **Java Full Stack Development**
+- 🧠 I love working with **data, intelligent systems, and clean UI apps**
+- 💼 Open to **Internships, Freelance Projects & Open Source Collaboration**
+- 📈 Believe every day is a learning opportunity
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sanjaykumarand) or via my [Portfolio](https://sanjaykumarand.github.io)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjaykumarand" target="_blank">
@@ -15,46 +44,40 @@
 
 ---
 
-### 🙋‍♂️ About Me
+## 🛠️ Tech Stack
 
-- 🎓 I'm a student passionate about **Java Full Stack Developer & Data Science**
-- 🌱 Currently learning and building projects in **Java Full Stack Dev**
-- 💼 Open to **Internships, Freelance Projects & Open Source Collaboration**
-- 🧠 Love working with **data, building intelligent systems, and clean UI apps**
-- 📫 Reach me at my [LinkedIn](https://www.linkedin.com/in/sanjaykumarand) or [Portfolio](https://sanjaykumarand.github.io)
+<h4>💻 Languages</h4>
 
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### 🌐 JAVA Full Stack
+<h4>🌐 Java Full Stack</h4>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🤖 Data Science & AI/ML
+<h4>🤖 Data Science & AI/ML</h4>
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### 🗄️ Databases
+<h4>🗄️ Databases</h4>
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumarand&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumarand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
@@ -64,7 +87,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=sanjaykumarand&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -72,7 +95,7 @@
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 <p align="center">
   I'm always excited to work on interesting projects, learn new things, and connect with people.<br/>
@@ -85,10 +108,12 @@
   <a href="https://sanjaykumarand.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github"/></a>
 </p>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjaykumarand&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=sanjaykumarand&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-<p align="center">⭐ <i>If you find my projects helpful, consider giving them a star!</i> ⭐</p>
+⭐ *If you find my projects helpful, consider giving them a star!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
