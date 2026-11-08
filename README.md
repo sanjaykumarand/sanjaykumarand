@@ -75,15 +75,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sanjaykumarand&label=Public%20Repos&query=$.public_repos&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sanjaykumarand&label=Followers&query=$.followers&color=green&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sanjaykumarand?style=for-the-badge&color=yellow" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumarand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=prs_merged,reviews,discussions_started,discussions_answered" alt="GitHub Stats" width="48%"/>
-</p>
+<img src="https://github-stats-extended.vercel.app/api/?username=sanjaykumarand&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=SanjayKumaran's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed">
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sanjaykumarand&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
