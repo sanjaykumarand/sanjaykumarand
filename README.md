@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumarand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?user=sanjaykumarand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=sanjaykumarand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 <p align="center">
