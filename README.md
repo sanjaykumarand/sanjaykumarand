@@ -75,8 +75,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center"><img src="https://github-stats-extended.vercel.app/api/?username=sanjaykumarand&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=SanjayKumaran's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed">
-</p>
+<div align="center"><img src="https://github-stats-extended.vercel.app/api/?username=sanjaykumarand&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=SanjayKumaran's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed">
+</div>
 
 
 <p align="center">
