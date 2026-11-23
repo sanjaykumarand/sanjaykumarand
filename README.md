@@ -11,8 +11,8 @@
 </td>
 <td>
 
-**🔗 Portfolio:** [sanjaykumarand.github.io](https://sanjaykumarand.github.io)
-**📧 Email:** [sanjaykumaran6907@gmail.com](mailto:sanjaykumaran6907@gmail.com)
+** Portfolio:** [sanjaykumarand.github.io](https://sanjaykumarand.github.io)
+** Email:** [sanjaykumaran6907@gmail.com](mailto:sanjaykumaran6907@gmail.com)
 
 </td>
 </tr>
@@ -20,15 +20,15 @@
 
 ---
 
-## 👋 I'm Sanjay Kumaran D!
+##  I'm Sanjay Kumaran D!
 
-**🎓 Student | Aspiring Java Developer | Data Science & AI/ML Enthusiast**
+** Student | Aspiring Java Developer | Data Science & AI/ML Enthusiast**
 
-- ✨ Currently learning and building projects in **Java Full Stack Development**
-- 🧠 I love working with **data, intelligent systems, and clean UI apps**
-- 💼 Open to **Internships, Freelance Projects & Open Source Collaboration**
-- 📈 Believe every day is a learning opportunity
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sanjaykumarand) or via my [Portfolio](https://sanjaykumarand.github.io)
+-  Currently learning and building projects in **Java Full Stack Development**
+-  I love working with **data, intelligent systems, and clean UI apps**
+-  Open to **Internships, Freelance Projects & Open Source Collaboration**
+-  Believe every day is a learning opportunity
+-  Reach me on [LinkedIn](https://www.linkedin.com/in/sanjaykumarand) or via my [Portfolio](https://sanjaykumarand.github.io)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjaykumarand" target="_blank">
@@ -44,16 +44,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-<h4>💻 Languages</h4>
+<h4> Languages</h4>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<h4>🌐 Java Full Stack</h4>
+<h4> Java Full Stack</h4>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,20 +61,20 @@
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4>🤖 Data Science & AI/ML</h4>
+<h4> Data Science & AI/ML</h4>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<h4>🗄️ Databases</h4>
+<h4> Databases</h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center"><img src="https://github-stats-extended.vercel.app/api/?username=sanjaykumarand&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=SanjayKumaran's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed">
 </div>
 
@@ -83,7 +83,7 @@
   <img src="https://streak-stats.demolab.com/?user=sanjaykumarand&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
 </p>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=sanjaykumarand&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -91,7 +91,7 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <p align="center">
   I'm always excited to work on interesting projects, learn new things, and connect with people.<br/>
@@ -108,7 +108,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sanjaykumarand&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-⭐ *If you find my projects helpful, consider giving them a star!* ⭐
+ *If you find my projects helpful, consider giving them a star!* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
