@@ -11,8 +11,8 @@
 </td>
 <td>
 
-** Portfolio:** [sanjaykumarand.github.io](https://sanjaykumarand.github.io)
-** Email:** [sanjaykumaran6907@gmail.com](mailto:sanjaykumaran6907@gmail.com)
+Portfolio: [sanjaykumarand.github.io](https://sanjaykumarand.github.io)
+Email: [sanjaykumaran6907@gmail.com](mailto:sanjaykumaran6907@gmail.com)
 
 </td>
 </tr>
